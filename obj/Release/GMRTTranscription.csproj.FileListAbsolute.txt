@@ -1,0 +1,65 @@
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\GMRTTranscription.exe.config
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.Dashboard.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.Form1.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.Login_Form.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.NewFile.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.Properties.Resources.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.csproj.GenerateResource.Cache
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Release\GMRTTranscription.csprojResolveAssemblyReference.cache
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\Newtonsoft.Json.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\System.Net.Http.Formatting.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\WebApiContrib.Formatting.JavaScriptSerializer.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\Newtonsoft.Json.xml
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Release\System.Net.Http.Formatting.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\bin\Release\GMRTTranscription.exe.config
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\obj\Release\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\obj\Release\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\obj\Release\GMRTTranscription.csproj.ResolveComReference.cache
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\obj\Release\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t - Copy\GMRTTranscription\obj\Release\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\GMRTTranscription.exe.config
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\NAudio.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\Newtonsoft.Json.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\System.Net.Http.Formatting.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\WebApiContrib.Formatting.JavaScriptSerializer.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\NAudio.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\Newtonsoft.Json.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\System.Net.Http.Formatting.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\Interop.WMPLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Release\AxInterop.WMPLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\Interop.WMPLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\AxInterop.WMPLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.csproj.ResolveComReference.cache
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.CompletedFiles.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.Dashboard.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.Dashboards.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\TextRuler.Dialogs.dlgFind.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.Form1.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.InvoiceFile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.Login_Form.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.MDIForm.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.MyProfile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.MyTestCode.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.NewFile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.NewFilelist.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.NewVoicefile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.NewVoiceFilelist.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.PopUpForm.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.Properties.Resources.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.ViewTickets.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.WebbrowserHTML5.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.csproj.GenerateResource.Cache
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Release\GMRTTranscription.csprojResolveAssemblyReference.cache

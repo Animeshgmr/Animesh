@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9760C083-4211-44A4-B216-24FDF76E775F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GMRTTranscription</RootNamespace>
+    <AssemblyName>GMRTTranscription</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>T2t.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NAudio, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.9.0\lib\net35\NAudio.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebApiContrib.Formatting.JavaScriptSerializer, Version=0.9.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebApiContrib.Formatting.JavaScriptSerializer.0.9.4.0\lib\net40\WebApiContrib.Formatting.JavaScriptSerializer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompletedFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompletedFiles.Designer.cs">
+      <DependentUpon>CompletedFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboards.Designer.cs">
+      <DependentUpon>Dashboards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\dlgFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\dlgFind.Designer.cs">
+      <DependentUpon>dlgFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Installer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer.Designer.cs">
+      <DependentUpon>Installer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoiceFile.Designer.cs">
+      <DependentUpon>InvoiceFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIForm.Designer.cs">
+      <DependentUpon>MDIForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Common.cs" />
+    <Compile Include="Models\DisableEnableKey.cs" />
+    <Compile Include="Models\Global.cs" />
+    <Compile Include="Models\UserControl\AdvancedTextEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Models\UserControl\AdvancedTextEditor.designer.cs">
+      <DependentUpon>AdvancedTextEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\UserControl\ExtendedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Models\UserControl\ExtendedRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Models\UserControl\FontComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Models\UserControl\TextRuler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Models\UserControl\TransparentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Models\ValidateTypistLogin.cs" />
+    <Compile Include="Models\WaitWndFun.cs" />
+    <Compile Include="Models\WebService.cs" />
+    <Compile Include="MyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyProfile.Designer.cs">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyTestCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyTestCode.Designer.cs">
+      <DependentUpon>MyTestCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewFile.Designer.cs">
+      <DependentUpon>NewFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFilelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewFilelist.Designer.cs">
+      <DependentUpon>NewFilelist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewVoicefile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewVoicefile.Designer.cs">
+      <DependentUpon>NewVoicefile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewVoiceFilelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewVoiceFilelist.Designer.cs">
+      <DependentUpon>NewVoiceFilelist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="PopUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUpForm.Designer.cs">
+      <DependentUpon>PopUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTickets.Designer.cs">
+      <DependentUpon>ViewTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebbrowserHTML5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebbrowserHTML5.Designer.cs">
+      <DependentUpon>WebbrowserHTML5.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CompletedFiles.resx">
+      <DependentUpon>CompletedFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboards.resx">
+      <DependentUpon>Dashboards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\dlgFind.resx">
+      <DependentUpon>dlgFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoiceFile.resx">
+      <DependentUpon>InvoiceFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIForm.resx">
+      <DependentUpon>MDIForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\UserControl\AdvancedTextEditor.resx">
+      <DependentUpon>AdvancedTextEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyProfile.resx">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTestCode.resx">
+      <DependentUpon>MyTestCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFile.resx">
+      <DependentUpon>NewFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFilelist.resx">
+      <DependentUpon>NewFilelist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewVoicefile.resx">
+      <DependentUpon>NewVoicefile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewVoiceFilelist.resx">
+      <DependentUpon>NewVoiceFilelist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.CompletedFiles.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.Dashboard.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.InvoiceFile.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.Login_Form.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.MyProfile.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.NewFile.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.PopUpForm.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\GMRTTranscription.ViewTickets.resources" />
+    <EmbeddedResource Include="obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources" />
+    <EmbeddedResource Include="obj\Debug\TextRuler.Dialogs.dlgFind.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.CompletedFiles.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.Dashboard.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.Form1.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.InvoiceFile.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.Login_Form.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.MDIForm.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.MyProfile.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.NewFile.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.NewFilelist.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.PopUpForm.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\GMRTTranscription.ViewTickets.resources" />
+    <EmbeddedResource Include="obj\Release\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources" />
+    <EmbeddedResource Include="obj\Release\TextRuler.Dialogs.dlgFind.resources" />
+    <EmbeddedResource Include="PopUpForm.resx">
+      <DependentUpon>PopUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ViewTickets.resx">
+      <DependentUpon>ViewTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebbrowserHTML5.resx">
+      <DependentUpon>WebbrowserHTML5.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\GMRTTranscription.exe.config" />
+    <None Include="bin\Debug\GMRTTranscription.vshost.exe.config" />
+    <None Include="bin\Debug\Text_File.Text" />
+    <None Include="bin\Release\GMRTTranscription.exe.config" />
+    <None Include="documents\pdf\GMR_SURAJ_1FEBXXX.doc" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\GMRTTranscription.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Release\GMRTTranscription.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\GMRTTranscription.csproj.ResolveComReference.cache" />
+    <None Include="obj\Release\GMRTTranscription.csprojAssemblyReference.cache" />
+    <None Include="obj\Release\GMRTTranscription.csprojResolveAssemblyReference.cache" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AxInterop.AcroPDFLib.dll" />
+    <Content Include="bin\Debug\GMRTTranscription.exe" />
+    <Content Include="bin\Debug\GMRTTranscription.pdb" />
+    <Content Include="bin\Debug\GMRTTranscription.vshost.exe" />
+    <Content Include="bin\Debug\Interop.AcroPDFLib.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\System.Net.Http.Formatting.dll" />
+    <Content Include="bin\Debug\System.Net.Http.Formatting.xml" />
+    <Content Include="bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll" />
+    <Content Include="bin\Release\GMRTTranscription.exe" />
+    <Content Include="bin\Release\GMRTTranscription.pdb" />
+    <Content Include="Images\arrow-right.png" />
+    <Content Include="Images\arrow-wht.png" />
+    <None Include="Images\play.png" />
+    <None Include="Images\pause.png" />
+    <Content Include="obj\Debug\AxInterop.AcroPDFLib.dll" />
+    <Content Include="obj\Debug\GMRTTranscription.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\GMRTTranscription.exe" />
+    <Content Include="obj\Debug\GMRTTranscription.pdb" />
+    <Content Include="obj\Debug\Interop.AcroPDFLib.dll" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\AxInterop.AcroPDFLib.dll" />
+    <Content Include="obj\Release\GMRTTranscription.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\GMRTTranscription.exe" />
+    <Content Include="obj\Release\GMRTTranscription.pdb" />
+    <Content Include="obj\Release\Interop.AcroPDFLib.dll" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <None Include="Resources\261466.jpg" />
+    <None Include="Resources\img2.png" />
+    <None Include="Resources\fast-forward-icon.png" />
+    <None Include="Resources\fast-forward-icon1.png" />
+    <None Include="Resources\green2.jpg" />
+    <None Include="Resources\green4.jpg" />
+    <None Include="Resources\green5.jpg" />
+    <None Include="Resources\jump-to-time-icon.png" />
+    <None Include="Resources\cross1.png" />
+    <Content Include="Resources\l_indent_pos_lower.png" />
+    <None Include="Resources\pause.png" />
+    <None Include="Resources\play.png" />
+    <None Include="Resources\return-to-start-icon.png" />
+    <None Include="Resources\return-to-start-icon1.png" />
+    <None Include="Resources\rewind-icon.png" />
+    <None Include="Resources\repeat.jpg" />
+    <None Include="Resources\stop-button-hi.png" />
+    <None Include="Resources\save1.png" />
+    <None Include="Resources\save2.png" />
+    <None Include="Resources\save21.png" />
+    <None Include="Resources\save3.png" />
+    <None Include="Resources\save4.png" />
+    <None Include="Resources\save5.png" />
+    <None Include="Resources\partial-save45.png" />
+    <None Include="Resources\save9.png" />
+    <None Include="Resources\replay-icon.png" />
+    <Content Include="Resources\timg11.gif" />
+    <None Include="Resources\volume-icon.png" />
+    <None Include="Resources\volume-icon1.png" />
+    <Content Include="T2t.ico" />
+    <Content Include="VoiceFile\990_5-Dechttps.mp3" />
+    <None Include="Resources\timg111.gif" />
+    <None Include="Resources\l_indent_pos_lower.png.png" />
+    <Content Include="Resources\l_indent_pos_lower1.png" />
+    <Content Include="Resources\l_indet_pos_upper.png" />
+    <Content Include="Resources\l_indet_pos_upper1.png" />
+    <Content Include="Resources\r_indent_pos.png" />
+    <Content Include="Resources\r_indent_pos1.png" />
+    <Content Include="Resources\tab_pos.png" />
+    <Content Include="Resources\tab_pos1.png" />
+    <None Include="Images\button_bg.png" />
+    <None Include="Images\button.png" />
+    <Content Include="Images\Completed-file.png" />
+    <Content Include="Images\edit-file.png" />
+    <None Include="Images\field.png" />
+    <Content Include="Images\File.png" />
+    <None Include="Images\profile.png" />
+    <None Include="Images\profile-2.png" />
+    <None Include="Images\key.png" />
+    <Content Include="Images\t2t.png" />
+    <Content Include="Images\TIcket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\x64\" />
+    <Folder Include="bin\Debug\x86\" />
+    <Folder Include="documents\temp\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

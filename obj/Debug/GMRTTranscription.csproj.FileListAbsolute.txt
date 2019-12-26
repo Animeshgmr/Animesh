@@ -1,0 +1,215 @@
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.xml
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.xml
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csprojResolveAssemblyReference.cache
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.xml
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.xml
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csprojResolveAssemblyReference.cache
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+D:\D Drive\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Newtonsoft.Json.xml
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.xml
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.InvoiceFile.resources
+E:\GMRT Text2Text\GMRT Text2Text Suraj\Sonu Text to Text\GMRTTranscription\GMRTTranscription\obj\Debug\GMRTTranscription.CompletedFiles.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\Newtonsoft.Json.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\Newtonsoft.Json.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\System.Net.Http.Formatting.xml
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.CompletedFiles.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.InvoiceFile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\Project\GMRT\GMRTTranscription_t2t\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.CompletedFiles.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboards.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.InvoiceFile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MDIForm.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyTestCode.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFilelist.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoicefile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoiceFilelist.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.WebbrowserHTML5.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+D:\GMRT-Transcription\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csprojResolveAssemblyReference.cache
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.WMPLib.dll
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csprojResolveAssemblyReference.cache
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.CompletedFiles.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboards.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.InvoiceFile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MDIForm.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyTestCode.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFilelist.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoicefile.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoiceFilelist.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.WebbrowserHTML5.resources
+D:\GMRT-Transcription\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe.config
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\Interop.WMPLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\AxInterop.WMPLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.ResolveComReference.cache
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.exe
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\GMRTTranscription.pdb
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\Interop.WMPLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\bin\Debug\AxInterop.WMPLib.dll
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csprojResolveAssemblyReference.cache
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.CompletedFiles.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboard.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Dashboards.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Form1.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.InvoiceFile.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Login_Form.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MDIForm.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyProfile.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.MyTestCode.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFile.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewFilelist.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoicefile.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.NewVoiceFilelist.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.PopUpForm.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.Properties.Resources.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.ViewTickets.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.WebbrowserHTML5.resources
+D:\Animesh\Project\Animesh\GMRT_T2T_Anup\GMRT_T2T_Anup\Anup\GMRTTranscription\obj\Debug\GMRTTranscription.csproj.GenerateResource.Cache
